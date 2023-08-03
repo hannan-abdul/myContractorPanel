@@ -1,0 +1,28 @@
+.gJYWcm{
+    padding: 10px 0;
+}
+.edit-icon{
+    color: #fff;
+}
+.sc-fzqNJr{
+    display: none !important;
+}
+
+.material-section{
+    position: relative;
+    .update-btn{
+        background-color: #725EC3;
+        color: #fff;
+        position: absolute;
+        top: -40%;
+        right: 12%;
+        transform: translate(12%, -40%);
+        z-index: 999;
+        &:hover{
+            background-color: #362285;
+            color: #fff;
+            box-shadow: 1px 1px 8px 0px gray;
+        }
+    }
+}
+

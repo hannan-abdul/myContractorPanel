@@ -1,0 +1,32 @@
+.gJYWcm{
+    padding: 10px 0;
+}
+.edit-icon{
+    color: #fff;
+}
+.sc-fzqNJr{
+    display: none !important;
+}
+.btn-fix{
+    margin-left: 5px;
+}
+.complain-btn-fix{
+    margin-right: 10px;
+}
+.job-section{
+    position: relative;
+    .update-btn{
+        background-color: #725EC3;
+        color: #fff;
+        position: absolute;
+        top: -15%;
+        right: 15%;
+        transform: translate(15%, -15%);
+        z-index: 999;
+        &:hover{
+            background-color: #362285;
+            color: #fff;
+            box-shadow: 1px 1px 8px 0px gray;
+        }
+    }
+}
